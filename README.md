@@ -1,10 +1,12 @@
 # whohee
-file encryption using variable encryption algorithms
-created mainly to test encryption/decryption speeds
-this is based on the original roqet teahee.pl script
-WARNING: don't use this on large folders/files (unless you have tons of resources available)
-it currently takes almost 10 seconds to encrypt 11mb
+File encryption using variable encryption algorithms, created mainly to test encryption/decryption speeds
+
+This is based on the original roqet teahee.pl script
+
+WARNING: don't use this on large folders/files (unless you have tons of resources available) - it currently takes almost 10 seconds to encrypt 11mb
+
 Interested in more on Perl ciphers?: http://www.perl.com/pub/2001/07/10/crypto.html
+
 <pre>
 whohee: encryption/decryption using variable encryption algorithms
 note: binmode is used, so this should be able to encrypt any file/folder
